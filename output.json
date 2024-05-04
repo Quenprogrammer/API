@@ -1,0 +1,1799 @@
+[
+  {
+    "city": "Nicosia",
+    "district": "Akıncılar",
+    "map": {
+      "lat": 35.0114757,
+      "lng": 33.4638283
+    },
+    "place_id": "ChIJ2yNfV0sg3hQR4PG_cIx5amI"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Alayköy",
+    "map": {
+      "lat": 35.20779,
+      "lng": 33.1688676
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Balıkesir",
+    "map": {
+      "lat":37.403692,
+      "lng":27.8400738
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Beyköy",
+    "map": {
+      "lat": 35.2360766,
+      "lng": 33.5010015
+    },
+    "place_id": "ChIJM-HbHR4_3hQRAY3JKrBLboU"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Cihangir",
+    "map": {
+      "lat": 35.2265368,
+      "lng": 33.5133847
+    },
+    "place_id": "ChIJ59NDwcQ-3hQR8t_KdN9VwyM"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Çağlayan",
+    "map": {
+      "lat": 35.1827026,
+      "lng":33.3628648
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Çukurova",
+    "map": {
+      "lat": 35.22518470000001,
+      "lng": 33.5556247
+    },
+    "place_id": "ChIJt0_-qOY43hQR8zS--ctKZNw"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Değirmenlik",
+    "map": {
+      "lat": 35.2431167,
+      "lng": 33.48125479999999
+    },
+    "place_id": "ChIJlaSb_gc_3hQR-DikEPtnxRA"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Demirhan",
+    "map": {
+      "lat": 35.2151844,
+      "lng": 33.4845754
+    },
+    "place_id": "ChIJ07rLVGc-3hQRLlt4hMisB50"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Dilekkaya",
+    "map": {
+      "lat":35.1086002,
+      "lng":33.5508769
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Dumlupınar",
+    "map": {
+      "lat":35.2089835,
+      "lng":33.3382753
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Düzova",
+    "map": {
+      "lat":35.2019343,
+      "lng":33.4958426
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Erdemli",
+    "map": {
+      "lat":36.2628032,
+      "lng":31.590266
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Gaziköy",
+    "map": {
+      "lat": 35.1585354,
+      "lng": 33.5859214
+    },
+    "place_id": "ChIJ2-w-uzA63hQR74hNpr9M35Q"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Gelibolu",
+    "map": {
+      "lat":35.1977901,
+      "lng":33.3451688
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Göçmenköy",
+    "map": {
+      "lat": 35.2084744,
+      "lng": 33.3359886
+    },
+    "place_id": "ChIJF2SiYdgQ3hQRezKaxO8kZhQ"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Gökhan",
+    "map": {
+      "lat": 35.2282168,
+      "lng": 33.4970323
+    },
+    "place_id": "ChIJ-aMg1uQ-3hQR_evJEFjldp4"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Gönyeli",
+    "map": {
+      "lat": 35.2164406,
+      "lng": 33.3057944
+    },
+    "place_id": "ChIJ-QldKQAR3hQR8jvZU1MIRRg"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Gürpınar",
+    "map": {
+      "lat":35.2232434,
+      "lng":33.0869109
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Hamitköy",
+    "map": {
+      "lat": 35.219939,
+      "lng": 33.3776236
+    },
+    "place_id": "ChIJC26FTOsW3hQRKlGoqkbKgVU"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Haspolat",
+    "map": {
+      "lat": 35.216443,
+      "lng": 33.4223934
+    },
+    "place_id": "ChIJ0WZmiRQW3hQRWJCZ8IphTlo"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Kalavaç",
+    "map": {
+      "lat": 35.2579366,
+      "lng": 33.5488475
+    },
+    "place_id": "ChIJw9LwmqE43hQRVCDyyfoiWvY"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Kanlıköy",
+    "map": {
+      "lat":35.2283683,
+      "lng":33.2147586
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Kırklar",
+    "map": {
+      "lat":35.1297155,
+      "lng":33.4687155
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Kızılbaş",
+    "map": {
+      "lat": 35.1956434,
+      "lng": 33.3551313
+    },
+    "place_id": "ChIJd4JTT9YW3hQRJHgibYGTIFk"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Köşklüçiftlik",
+    "map": {
+      "lat": 35.1837005,
+      "lng": 33.3528231
+    },
+    "place_id": "ChIJc3IyIUoX3hQRS5MbKhcXffc"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Kumsal",
+    "map": {
+      "lat": 35.1915104,
+      "lng": 33.3493161
+    },
+    "place_id": "ChIJl2YTbzMX3hQR36Qh4yJ1grA"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Küçük Kaymaklı",
+    "map": {
+      "lat": 35.2003971,
+      "lng": 33.3738621
+    },
+    "place_id": "ChIJA1Ecy-MW3hQRlOLTeOLYcOM"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Lefkoşa Surlariçi",
+    "map": {
+      "lat": 35.1811872,
+      "lng": 33.3615595
+    },
+    "place_id": "ChIJI4q0by0X3hQRb-ucdSchv-g"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Marmara",
+    "map": {
+      "lat": 35.2025517,
+      "lng": 33.3472119
+    },
+    "place_id": "ChIJR3j4UCsX3hQRTKfYHjz77D4"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Meriç",
+    "map": {
+      "lat": 35.1701784,
+      "lng": 33.5387481
+    },
+    "place_id": "ChIJr3Wloeg73hQRYgQ9kB1WbOs"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Metehan",
+    "map": {
+      "lat":35.1825681,
+      "lng":33.3035514
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Minareliköy",
+    "map": {
+      "lat":35.2165677,
+      "lng":33.4201783
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Ortaköy",
+    "map": {
+      "lat": 35.1979086,
+      "lng": 33.3345856
+    },
+    "place_id": "ChIJKx6L-tgQ3hQRdUOHnLJp7zw"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Sanayi Bölgesi",
+    "map": {
+      "lat": 35.2139855,
+      "lng": 33.3458091
+    },
+    "place_id": "ChIJI8Pdpi0R3hQRLTw31XvwLWU"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Taşkınköy",
+    "map": {
+      "lat": 35.2139855,
+      "lng": 33.3458091
+    },
+    "place_id": "ChIJjyxVBS0R3hQR3-Gf6T1vD8w"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Türkeli",
+    "map": {
+      "lat":35.2101849,
+      "lng":33.1527244
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Yeniceköy",
+    "map": {
+      "lat":35.2341287,
+      "lng":33.5348006
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Yenikent",
+    "map": {
+      "lat":35.2039075,
+      "lng":33.2865301
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Yenişehir",
+    "map": {
+      "lat": 35.1884251,
+      "lng": 33.3612392
+    },
+    "place_id": "ChIJocpUHjoX3hQRs23LWvt9i3c"
+  },
+  {
+    "city": "Nicosia",
+    "district": "Yılmazköy",
+    "map": {
+      "lat":35.2270696,
+      "lng":33.1232582
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Nicosia",
+    "district": "Yiğitler",
+    "map": {
+      "lat":35.0880618,
+      "lng":33.359132
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Ağırdağ",
+    "map": {
+      "lat": 35.2966358,
+      "lng": 33.2676598
+    },
+    "place_id": "ChIJ67JSUnAS3hQRLQG8XhnW1cY"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Akçiçek",
+    "map": {
+      "lat": 35.2994371,
+      "lng": 33.1731081
+    },
+    "place_id": "ChIJq-MB6AEM3hQR-l97Vmwy_A4"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Akdeniz",
+    "map": {
+      "lat": 35.2907038,
+      "lng": 32.9775675
+    },
+    "place_id": "ChIJwfPNebbk3RQRQ4wY82BrkXg"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Alagadi",
+    "map": {
+      "lat": 35.3342221,
+      "lng": 33.4914203
+    },
+    "place_id": "ChIJYdeKGQ1B3hQRH-wARjxc-9w"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Alemdağ",
+    "map": {
+      "lat": 35.3083539,
+      "lng": 33.1526477
+    },
+    "place_id": "ChIJr2BEl-EL3hQRuxRFrugXaDI"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Alsancak",
+    "map": {
+      "lat": 35.3420796,
+      "lng": 33.2082318
+    },
+    "place_id": "ChIJfZOGfvIM3hQRkYt4GUYmTbo"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Arapköy",
+    "map": {
+      "lat": 35.3068349,
+      "lng": 33.434529
+    },
+    "place_id": "ChIJ99aDMKZq3hQRBu8Ksl2TwCw"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Aşağı Girne",
+    "map": {
+      "lat": 35.3322825,
+      "lng": 33.3195479
+    },
+    "place_id": "ChIJi4O9jUwT3hQR6_VuqOTMV-o"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Bahçeli",
+    "map": {
+      "lat": 35.3384483,
+      "lng": 33.6299044
+    },
+    "place_id": "ChIJ8Qe9QW9P3hQR9NaEanZcrvI"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Bellapais",
+    "map": {
+      "lat":35.3195781,
+      "lng":33.3167545
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Beşparmak",
+    "map": {
+      "lat": 35.3077408,
+      "lng": 33.4691341
+    },
+    "place_id": "ChIJ5YwrdUNA3hQR5J9wzYWE44s"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Boğaz",
+    "map": {
+      "lat": 35.291758,
+      "lng": 33.2840638
+    },
+    "place_id": "ChIJX0_u6GkS3hQR-1XLGVP2Udo"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Çamlıbel",
+    "map": {
+      "lat": 35.3074832,
+      "lng": 33.072608
+    },
+    "place_id": "ChIJKUqtUgji3RQRspS_34LLa1s"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Çatalköy",
+    "map": {
+      "lat": 35.3246072,
+      "lng": 33.3999291
+    },
+    "place_id": "ChIJA34q5CVr3hQRg5Hfzht5-RY"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Dağyolu",
+    "map": {
+      "lat": 35.2638715,
+      "lng": 33.2217357
+    },
+    "place_id": "ChIJyyZGv2cO3hQRMTIGUf-gq2E"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Dikmen",
+    "map": {
+      "lat": 35.2665502,
+      "lng": 33.3227315
+    },
+    "place_id": "ChIJf0s8-cAT3hQRY6tDs7XxiJg"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Doğanköy",
+    "map": {
+      "lat": 35.3269629,
+      "lng": 33.3328783
+    },
+    "place_id": "ChIJ2_cKfkwT3hQRPMWDanLRPCQ"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Edremit",
+    "map": {
+      "lat": 35.334764,
+      "lng": 33.2623672
+    },
+    "place_id": "ChIJZ09DMp4S3hQRd0ZOf_1ilTc"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Esentepe",
+    "map": {
+      "lat": 35.3535224,
+      "lng": 33.5955048
+    },
+    "place_id": "ChIJ42MaTr1F3hQR4ApqkP0lmnU"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Geçitköy",
+    "map": {
+      "lat": 35.3374829,
+      "lng": 33.0684663
+    },
+    "place_id": "ChIJ4xP-0fnh3RQR8AxYXLsvyzE"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Girne Merkez",
+    "map": {
+      "lat": 35.3322825,
+      "lng": 33.3195479
+    },
+    "place_id": "ChIJi4O9jUwT3hQR6_VuqOTMV-o"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Göçeri",
+    "map": {
+      "lat": 35.2912314,
+      "lng": 33.2173429
+    },
+    "place_id": "ChIJh1pYrtUN3hQRacUjOhilL48"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Hisarköy",
+    "map": {
+      "lat": 35.3015968,
+      "lng": 33.1078106
+    },
+    "place_id": "ChIJAbvlJ5QJ3hQRTtLtonn2DKU"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Ilgaz",
+    "map": {
+      "lat": 35.3226247,
+      "lng": 33.2218816
+    },
+    "place_id": "ChIJwfPO3qkN3hQRRA7HzvR1NmY"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "İncesu",
+    "map": {
+      "lat": 35.3332157,
+      "lng": 33.207172
+    },
+    "place_id": "ChIJ2-_tevsM3hQRxLzz2YPxzAI"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Karaağaç",
+    "map": {
+      "lat": 35.3187243,
+      "lng": 33.5566276
+    },
+    "place_id": "ChIJ7VYHdJRG3hQRvc06gOS-wAA"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Karakum",
+    "map": {
+      "lat": 35.3339724,
+      "lng": 33.3405289
+    },
+    "place_id": "ChIJjWF1a69s3hQRq9ClskzK_00"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Karaoğlanoğlu",
+    "map": {
+      "lat": 35.3391989,
+      "lng": 33.2728331
+    },
+    "place_id": "ChIJFTeHhbES3hQRDSlhDo94ZNo"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Karmi",
+    "map": {
+      "lat": 35.3179835,
+      "lng": 33.2555996
+    },
+    "place_id": "ChIJc0Z0on0N3hQRzLJNY-kkK-4"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Karşıyaka",
+    "map": {
+      "lat": 35.3533663,
+      "lng": 33.1184895
+    },
+    "place_id": "ChIJI23ralMK3hQRmSYUL86bEWI"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Kayalar",
+    "map": {
+      "lat": 35.3595824,
+      "lng": 33.0312042
+    },
+    "place_id": "ChIJ4UZrwHXh3RQR2PaE3-Wo7uw"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Kılıçarslan",
+    "map": {
+      "lat": 35.2691765,
+      "lng": 33.12627820000001
+    },
+    "place_id": "ChIJD2LWg_gI3hQRPkQCNEuxAgw"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Koruçam",
+    "map": {
+      "lat": 35.3436459,
+      "lng": 33.0096447
+    },
+    "place_id": "ChIJx4wIQefj3RQR954Nruf_HOE"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Kozan",
+    "map": {
+      "lat": 35.3104365,
+      "lng": 33.1400354
+    },
+    "place_id": "ChIJZSJJD2MJ3hQRrXqQjWK3sFg"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Kömürcü",
+    "map": {
+      "lat": 35.28949619999999,
+      "lng": 33.2566494
+    },
+    "place_id": "ChIJTQMTPfEN3hQRJTxZ743D5oQ"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Lapta",
+    "map": {
+      "lat": 35.3364082,
+      "lng": 33.1632665
+    },
+    "place_id": "ChIJSfTuTocM3hQRNbYv5mkqRUM"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Malatya",
+    "map": {
+      "lat":35.3178189,
+      "lng":33.1912548
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Ozanköy",
+    "map": {
+      "lat": 35.3184425,
+      "lng": 33.3539027
+    },
+    "place_id": "ChIJWQgBAqsU3hQRDGnebBrZxSQ"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Pınarbaşı",
+    "map": {
+      "lat":35.2731282,
+      "lng":33.206544
+
+    },
+    "place_id": null
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Sadrazamköy",
+    "map": {
+      "lat": 35.3835765,
+      "lng": 32.95027290000001
+    },
+    "place_id": "ChIJ17BMu43m3RQRUulnzLeP1Gk"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Şirinevler",
+    "map": {
+      "lat": 35.2786613,
+      "lng": 33.1726068
+    },
+    "place_id": "ChIJAy0Ii7UO3hQRJ_TtF_VdPxA"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Taşkent",
+    "map": {
+      "lat": 35.2713809,
+      "lng": 33.3885371
+    },
+    "place_id": "ChIJz9U6E_8U3hQRanxew9hlx0U"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Tepebaşı",
+    "map": {
+      "lat": 35.3059465,
+      "lng": 33.0549004
+    },
+    "place_id": "ChIJh89DvULi3RQRdBBYCLBD6JM"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Türk Mahallesi",
+    "map": {
+      "lat": 38.963745,
+      "lng": 35.243322
+    },
+    "place_id": "ChIJcSZPllwVsBQRKl9iKtTb2UA"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Yeşiltepe",
+    "map": {
+      "lat": 35.3442807,
+      "lng": 33.2208745
+    },
+    "place_id": "ChIJQ37m3RwN3hQRXX8CJYlWe_0"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Yukarı Girne",
+    "map": {
+      "lat": 35.3322825,
+      "lng": 33.3195479
+    },
+    "place_id": "ChIJi4O9jUwT3hQR6_VuqOTMV-o"
+  },
+  {
+    "city": "Kyrenia",
+    "district": "Zeytinlik",
+    "map": {
+      "lat": 35.3281649,
+      "lng": 33.2976524
+    },
+    "place_id": "ChIJwVvTLdAS3hQREGDVCh7-Py4"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Akdoğan",
+    "map": {
+      "lat": 35.1066647,
+      "lng": 33.6818605
+    },
+    "place_id": "ChIJA8dfLUYw3hQR_xGfkMe5K7g"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Akova",
+    "map": {
+      "lat": 35.2596754,
+      "lng": 33.7859523
+    },
+    "place_id": "ChIJU-OytVBL3hQRMc_Wi2P7kCI"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Alaniçi",
+    "map": {
+      "lat": 35.2216155,
+      "lng": 33.7591632
+    },
+    "place_id": "ChIJ3_fervFK3hQRMBvuklWgwE0"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Arıdamı",
+    "map": {
+      "lat": 35.3204037,
+      "lng": 33.710294
+    },
+    "place_id": "ChIJE0MBDylM3hQR5RHfnT6UA0k"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Aslanköy",
+    "map": {
+      "lat": 35.2047249,
+      "lng": 33.589302
+    },
+    "place_id": "ChIJg9Z_PJY53hQRZ3xc1Ig97vQ"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Atlılar",
+    "map": {
+      "lat": 35.2096653,
+      "lng": 33.8271975
+    },
+    "place_id": "ChIJxxEush213xQRzCvoaesLzJA"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Baykal",
+    "map": {
+      "lat": 35.1203495,
+      "lng": 33.9290049
+    },
+    "place_id": "ChIJ04EyrMrJ3xQRrWxZDW0pia4"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Beyarmudu",
+    "map": {
+      "lat": 35.0417616,
+      "lng": 33.7078826
+    },
+    "place_id": "ChIJg1TRneIt3hQR8NVvavMgv4s"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Çanakkale",
+    "map": {
+      "lat":35.1245573,
+      "lng":33.8704842
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Famagusta",
+    "district": "Çayönü",
+    "map": {
+      "lat": 35.096763,
+      "lng": 33.7936215
+    },
+    "place_id": "ChIJg3_HplIz3hQRAUTYNVwTPuI"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Çınarlı",
+    "map": {
+      "lat": 35.3330559,
+      "lng": 33.7512456
+    },
+    "place_id": "ChIJS2khqQpN3hQR0eDHZNaY1vM"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Dörtyol",
+    "map": {
+      "lat": 35.1764345,
+      "lng": 33.757636
+    },
+    "place_id": "ChIJWS2nt6k13hQRU0DCwffkzjo"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Dumlupınar",
+    "map": {
+      "lat":35.125995,
+      "lng":33.9220538
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Famagusta",
+    "district": "Geçitkale",
+    "map": {
+      "lat": 35.2598601,
+      "lng": 33.7319809
+    },
+    "place_id": "ChIJzyALMLpL3hQRN2dyl-_Omes"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Gönendere",
+    "map": {
+      "lat": 35.2650365,
+      "lng": 33.6603295
+    },
+    "place_id": "ChIJUbtao_9I3hQRGQZYKPBGAHQ"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Gülseren",
+    "map": {
+      "lat": 35.1372815,
+      "lng": 33.9253283
+    },
+    "place_id": "ChIJJzSXB9TJ3xQRBoZ6ZtwJe7I"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Güvercinlik",
+    "map": {
+      "lat": 35.0996644,
+      "lng": 33.8613357
+    },
+    "place_id": "ChIJDbkfx5TL3xQR_buM4Nn1d4w"
+  },
+  {
+    "city": "Famagusta",
+    "district": "İnönü",
+    "map": {
+      "lat": 35.1570807,
+      "lng": 33.7015185
+    },
+    "place_id": "ChIJ23CAl5k23hQRqSVMCHJkHeE"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Kaleiçi",
+    "map": {
+      "lat": 35.1248741,
+      "lng": 33.9420331
+    },
+    "place_id": "ChIJn2AZpGzJ3xQRdrpmW0Qop6Y"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Karakol",
+    "map": {
+      "lat": 35.1474614,
+      "lng": 33.9164563
+    },
+    "place_id": "ChIJs96v6ie23xQRIwFrZ2kpykc"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Korkuteli",
+    "map": {
+      "lat": 35.1470463,
+      "lng": 33.8020459
+    },
+    "place_id": "ChIJCSuPp0k13hQRiN0Zm3g8dXA"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Köprülü",
+    "map": {
+      "lat": 35.1081959,
+      "lng": 33.7511788
+    },
+    "place_id": "ChIJ_ZaSPp0z3hQR3M2gtEPsjGQ"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Kurudere",
+    "map": {
+      "lat": 35.1929092,
+      "lng": 33.6406767
+    },
+    "place_id": "ChIJw29psAo33hQRtm1283EgZJY"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Kuzucuk",
+    "map": {
+      "lat": 35.23713559999999,
+      "lng": 33.860726
+    },
+    "place_id": "ChIJ_ZP9CnS03xQRzYR6mME076Y"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Küçük Erenköy",
+    "map": {
+      "lat": 35.3630139,
+      "lng": 33.6682723
+    },
+    "place_id": "ChIJASOqhDZO3hQRLBc-qDsiiEI"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Mağusa Merkez",
+    "map": {
+      "lat": 35.1176528,
+      "lng": 33.9433238
+    },
+    "place_id": "ChIJ8aYBbzjI3xQR7Xiqk5jtT4Q"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Mallıdağ",
+    "map": {
+      "lat": 35.3331554,
+      "lng": 33.6893205
+    },
+    "place_id": "ChIJpSAkQYpO3hQR_mw-aZlPcyU"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Maraş",
+    "map": {
+      "lat": 35.105872,
+      "lng": 33.9554907
+    },
+    "place_id": "ChIJFbxuNW_I3xQRXL-W8cUUcHc"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Mormenekşe",
+    "map": {
+      "lat": 35.1996072,
+      "lng": 33.8606338
+    },
+    "place_id": "ChIJAyL-5LS13xQR5RLkEv9LvT4"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Mutluyaka",
+    "map": {
+      "lat": 35.1727558,
+      "lng": 33.8324987
+    },
+    "place_id": "ChIJgzObm3213xQRhcNFZ3Y4wgU"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Nergisli",
+    "map": {
+      "lat": 35.2177207,
+      "lng": 33.6970381
+    },
+    "place_id": "ChIJY8VhkfxJ3hQR3TtQUo1M-Y8"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Paşaköy",
+    "map": {
+      "lat": 35.1590153,
+      "lng": 33.60875850000001
+    },
+    "place_id": "ChIJqbkYhwQ63hQRzd97gRoxA8U"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Pınarlı",
+    "map": {
+      "lat": 35.2438161,
+      "lng": 33.6476121
+    },
+    "place_id": "ChIJOy2AVzlI3hQRAjxOiqnAn5s"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Pirhan",
+    "map": {
+      "lat": 35.1834721,
+      "lng": 33.7260893
+    },
+    "place_id": "ChIJLcSlBsE13hQRP8-F4qiLBBc"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Sakarya",
+    "map": {
+      "lat": 35.1402604,
+      "lng": 33.912273
+    },
+    "place_id": "ChIJg9vaRtnJ3xQRSSHECvne0KQ"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Salamis",
+    "map": {
+      "lat":35.1427593,
+      "lng":33.9114057
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Famagusta",
+    "district": "Serdarlı",
+    "map": {
+      "lat": 35.2564928,
+      "lng": 33.6002279
+    },
+    "place_id": "ChIJ-1FV-PBH3hQR3ig5I4IhXBw"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Sütlüce",
+    "map": {
+      "lat": 35.2539836,
+      "lng": 33.6873654
+    },
+    "place_id": "ChIJX8-_p59J3hQRTt4P10BII_U"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Tatlısu",
+    "map": {
+      "lat": 35.3785077,
+      "lng": 33.7629465
+    },
+    "place_id": "ChIJR2udT_RS3hQRsTyTpE9AY8M"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Tirmen",
+    "map": {
+      "lat": 35.309467,
+      "lng": 33.6343102
+    },
+    "place_id": "ChIJ5-lxn7NI3hQRAPfDuw7QuFI"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Turunçlu",
+    "map": {
+      "lat": 35.1670157,
+      "lng": 33.6399045
+    },
+    "place_id": "ChIJEWTnjUc33hQRg1nJjH_Xyy0"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Tuzla",
+    "map": {
+      "lat": 35.1613671,
+      "lng": 33.8801952
+    },
+    "place_id": "ChIJTyk1qP213xQRe2YltPw6dIE"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Türkmenköy",
+    "map": {
+      "lat": 35.1041312,
+      "lng": 33.7153262
+    },
+    "place_id": "ChIJ1TLrHNsz3hQR7JLKiFS6h5w"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Ulukışla",
+    "map": {
+      "lat": 35.223092,
+      "lng": 33.6179257
+    },
+    "place_id": "ChIJWXbKMR443hQRsD8nK7y1Cw4"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Vadili",
+    "map": {
+      "lat": 35.1328658,
+      "lng": 33.6569891
+    },
+    "place_id": "ChIJWd0rCtww3hQR2QZNitRroNA"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Yamaçköy",
+    "map": {
+      "lat": 35.3221764,
+      "lng": 33.679107
+    },
+    "place_id": "ChIJI2lXk_FO3hQRe_DeHtHqp8E"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Yeni Boğaziçi",
+    "map": {
+      "lat": 35.1957379,
+      "lng": 33.875853
+    },
+    "place_id": "ChIJX5JkU8213xQRzoBtqIJxpqA"
+  },
+  {
+    "city": "Famagusta",
+    "district": "Yıldırım",
+    "map": {
+      "lat": 35.2392149,
+      "lng": 33.7801281
+    },
+    "place_id": "ChIJVZiJvjtL3hQRyAHzEUei13I"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Akçay",
+    "map": {
+      "lat": 35.1796845,
+      "lng": 33.0354344
+    },
+    "place_id": "ChIJgTNn8n3-3RQRjdbMqU27XTk"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Aşağı Bostancı",
+    "map": {
+      "lat": 35.167595,
+      "lng": 33.0068913
+    },
+    "place_id": "ChIJjbYq_sD-3RQRRBwt-tCPH7k"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Aydınköy",
+    "map": {
+      "lat": 35.181113,
+      "lng": 32.946475
+    },
+    "place_id": "ChIJM7KWtAf53RQRM79pQyKYibc"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Güzelyurt Merkez",
+    "map": {
+      "lat": 35.201262,
+      "lng": 32.989566
+    },
+    "place_id": "ChIJLTiuYgD83RQRJPRPGNgrxUE"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Kalkanlı",
+    "map": {
+      "lat": 35.2461028,
+      "lng": 33.0363081
+    },
+    "place_id": "ChIJQyuQ1iP93RQRg1qfNPTRskI"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Serhatköy",
+    "map": {
+      "lat": 35.1878545,
+      "lng": 33.0919525
+    },
+    "place_id": "ChIJS4_MUl0H3hQRcIMqx8tFKPE"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Yayla",
+    "map": {
+      "lat": 35.22512020000001,
+      "lng": 32.9399974
+    },
+    "place_id": "ChIJMfmr19L73RQRh0aCJUR2yxg"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Yukarı Bostancı",
+    "map": {
+      "lat": 35.1616411,
+      "lng": 33.0158793
+    },
+    "place_id": "ChIJMyeRpuj-3RQRDNZiowoWvBo"
+  },
+  {
+    "city": "Guzelyurt",
+    "district": "Zümrütköy",
+    "map": {
+      "lat": 35.175355,
+      "lng": 33.0520146
+    },
+    "place_id": "ChIJCb4haHH-3RQRGM3vjRR4u1E"
+  },
+  {
+    "city": "Iskele",
+    "district": "Ağıllar",
+    "map": {
+      "lat": 35.3480408,
+      "lng": 33.8132141
+    },
+    "place_id": "ChIJUSNwLkyt3xQRSomsft-WRec"
+  },
+  {
+    "city": "Iskele",
+    "district": "Altınova",
+    "map": {
+      "lat": 39.21089449999999,
+      "lng": 26.7364375
+    },
+    "place_id": "ChIJaSXwxCNzuhQRkXsJnQQ-DB0"
+  },
+  {
+    "city": "Iskele",
+    "district": "Ardahan",
+    "map": {
+      "lat": 35.357853,
+      "lng": 33.8847184
+    },
+    "place_id": "ChIJK0xTfYKu3xQRkpKVIOf3KIA"
+  },
+  {
+    "city": "Iskele",
+    "district": "Avtepe",
+    "map": {
+      "lat":35.4914683,
+      "lng":34.22142
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Aygün",
+    "map": {
+      "lat": 35.2567152,
+      "lng": 33.8628593
+    },
+    "place_id": "ChIJz0sKlpSz3xQRfqCrh0TGdtE"
+  },
+  {
+    "city": "Iskele",
+    "district": "Bafra",
+    "map": {
+      "lat": 35.3801085,
+      "lng": 34.07139799999999
+    },
+    "place_id": "ChIJo133OM6g3xQR4lp7rm3fOrY"
+  },
+  {
+    "city": "Iskele",
+    "district": "Bahçeler",
+    "map": {
+      "lat": 35.2863525,
+      "lng": 33.9159715
+    },
+    "place_id": "ChIJUSTuir-x3xQRe11UzV2aavw"
+  },
+  {
+    "city": "Iskele",
+    "district": "Balalan",
+
+    "map": {
+      "lat":35.477285,
+      "lng":  34.1013861
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Boğaz",
+    "map": {
+      "lat": 35.3145033,
+      "lng": 33.9529199
+    },
+    "place_id": "ChIJUasau5ev3xQRzJkaQJUAR-A"
+  },
+  {
+    "city": "Iskele",
+    "district": "Boğaziçi",
+    "map": {
+      "lat": 35.26974480000001,
+      "lng": 33.8261817
+    },
+    "place_id": "ChIJZSUjjWyz3xQRNs6Qsmp39nA"
+  },
+  {
+    "city": "Iskele",
+    "district": "Boğaztepe - Monarga",
+    "map": {
+      "lat": 35.315924,
+      "lng": 33.9442572
+    },
+    "place_id": "ChIJpZeEvrmv3xQRkQn98z8idbo"
+  },
+  {
+    "city": "Iskele",
+    "district": "Boltaşlı",
+    "map": {
+      "lat": 35.4758895,
+      "lng": 34.1677351
+    },
+    "place_id": "ChIJq2tM1Dtz3xQRio98UMYlW4o"
+  },
+  {
+    "city": "Iskele",
+    "district": "Büyükkonuk",
+    "map": {
+      "lat": 35.2836381,
+      "lng": 33.8931056
+    },
+    "place_id": "ChIJtbgLUJGx3xQRsvnB1Roi2nw"
+  },
+  {
+    "city": "Iskele",
+    "district": "Çayırova",
+    "map": {
+      "lat": 40.8282764,
+      "lng": 29.4078331
+    },
+    "place_id": "ChIJlwE3dxDfyhQRDxZTqavSEuk"
+  },
+  {
+    "city": "Iskele",
+    "district": "Derince",
+    "map": {
+      "lat":35.2892144,
+      "lng":33.857609
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Dipkarpaz",
+    "map": {
+      "lat": 35.5987452,
+      "lng": 34.3807724
+    },
+    "place_id": "ChIJFdx3t2tn3xQRInHdNFtCOCg"
+  },
+  {
+    "city": "Iskele",
+    "district": "Ergazi",
+    "map": {
+      "lat":40.2112879,
+      "lng":41.6627182
+
+    },
+
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Esenköy",
+    "map": {
+      "lat": 40.6188045,
+      "lng": 28.9533838
+    },
+    "place_id": "ChIJi0Op8yeKyhQR3N9jpjmu3Dg"
+  },
+  {
+    "city": "Iskele",
+    "district": "İskele Merkez",
+    "map": {
+      "lat": 35.286196,
+      "lng": 33.8983612
+    },
+    "place_id": "ChIJeyr-v5Kx3xQRAwPrJPVx0aA"
+  },
+  {
+    "city": "Iskele",
+    "district": "Kaleburnu",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Kalecik",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Kantara",
+    "map": {
+      "lat": 35.3871012,
+      "lng": 33.8990248
+    },
+    "place_id": "ChIJjZyEuU2p3xQROD6uAAxEHCg"
+  },
+  {
+    "city": "Iskele",
+    "district": "Kaplıca",
+    "map": {
+      "lat": 35.4207515,
+      "lng": 33.90505290000001
+    },
+    "place_id": "ChIJfR7-IQip3xQRY1J_oXkCTf4"
+  },
+  {
+    "city": "Iskele",
+    "district": "Kilitkaya",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Kumyalı",
+    "map": {
+      "lat": 35.411244,
+      "lng": 34.129758
+    },
+    "place_id": "ChIJcQ8ta-oK3xQRq56Yb5lqvFo"
+  },
+  {
+    "city": "Iskele",
+    "district": "Kurtuluş",
+    "map": {
+      "lat": 35.3552512,
+      "lng": 33.9625582
+    },
+    "place_id": "ChIJh8Yz8E-v3xQRvTvUBpX0qFs"
+  },
+  {
+    "city": "Iskele",
+    "district": "Kuruova",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Kuzucuk",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Long Beach",
+    "map": {
+      "lat": 35.2469223,
+      "lng": 33.8983275
+    },
+    "place_id": "ChIJe3TljEKx3xQRILJQhIYtLU8"
+  },
+  {
+    "city": "Iskele",
+    "district": "Mehmetçik",
+    "map": {
+      "lat": 35.4227436,
+      "lng": 34.0716427
+    },
+    "place_id": "ChIJz4xBRhkK3xQRmThc7yJ3-xA"
+  },
+  {
+    "city": "Iskele",
+    "district": "Mersinlik",
+    "map": {
+      "lat": 35.3966983,
+      "lng": 33.8566544
+    },
+    "place_id": "ChIJj1VTB3as3xQRMg9DvvjtqCs"
+  },
+  {
+    "city": "Iskele",
+    "district": "Ötüken",
+    "map": {
+      "lat": 35.2354822,
+      "lng": 33.8729904
+    },
+    "place_id": "ChIJ57M9VAi03xQRtd2YBqUErx4"
+  },
+  {
+    "city": "Iskele",
+    "district": "Pamuklu",
+    "map": {
+      "lat": 38.4190502,
+      "lng": 27.1288651
+    },
+    "place_id": "ChIJK1IQdqWg3xQRAkiFomFaNHg"
+  },
+  {
+    "city": "Iskele",
+    "district": "Sazlıköy",
+    "map": {
+      "lat": 35.3990187,
+      "lng": 34.0256397
+    },
+    "place_id": "ChIJTeADeQyn3xQRXkzFnnGoJEk"
+  },
+  {
+    "city": "Iskele",
+    "district": "Sınırüstü",
+    "map": {
+      "lat": 35.272942,
+      "lng": 33.8523047
+    },
+    "place_id": "ChIJJwpkVKWz3xQRkigOcbpOlh8"
+  },
+  {
+    "city": "Iskele",
+    "district": "Sipahi",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Taşlıca",
+    "map": {
+      "lat": 40.7637,
+      "lng": 43.0477
+    },
+    "place_id": "ChIJs7GHGBbraUARtkG9NzzcmDA"
+  },
+  {
+    "city": "Iskele",
+    "district": "Topçuköy",
+    "map": {
+      "lat": 35.3402565,
+      "lng": 33.8737873
+    },
+    "place_id": "ChIJffxtwMSt3xQRk3m4vey4iDQ"
+  },
+  {
+    "city": "Iskele",
+    "district": "Turnalar",
+    "map": {
+      "lat": 35.359065,
+      "lng": 33.9220347
+    },
+    "place_id": "ChIJSzXsUtyu3xQR1VXj5GR6kdU"
+  },
+  {
+    "city": "Iskele",
+    "district": "Tuzluca",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Yarköy",
+    "map": {
+      "lat": 35.3282434,
+      "lng": 33.9288453
+    },
+    "place_id": "ChIJrdCyc1Ou3xQRxHhmQxG1Cfk"
+  },
+  {
+    "city": "Iskele",
+    "district": "Yedikonuk",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Iskele",
+    "district": "Yeni Erenköy",
+    "map": {
+      "lat": 35.5347254,
+      "lng": 34.1865669
+    },
+    "place_id": "ChIJI_jZtiJt3xQR25NLv5epXLk"
+  },
+  {
+    "city": "Iskele",
+    "district": "Yeşilköy",
+    "map": {
+      "lat": 40.9568557,
+      "lng": 28.8220679
+    },
+    "place_id": "ChIJmzj_CvuiyhQRuyP51fy4xac"
+  },
+  {
+    "city": "Iskele",
+    "district": "Ziyamet",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Lefke",
+    "district": "Bağlıköy",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Lefke",
+    "district": "Cengizköy",
+    "map": {
+      "lat": 35.1321721,
+      "lng": 32.8632407
+    },
+    "place_id": "EiRDZW5naXprw7Z5IC0gw4dhbWzEsWvDtnkgWW9sdSwgTGVma2UiLiosChQKEglJamzUQljnFBE72GlJatPH_hIUChIJJcwU6qVZ5xQRkcCTmSDRNms"
+  },
+  {
+    "city": "Lefke",
+    "district": "Doğancı",
+    "map": {
+      "lat": 35.1349613,
+      "lng": 32.9134037
+    },
+    "place_id": "ChIJe0vMruVX5xQRdlKV_XZjxnU"
+  },
+  {
+    "city": "Lefke",
+    "district": "Gaziveren",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Lefke",
+    "district": "Gemikonağı",
+    "map": null,
+    "place_id": null
+  },
+  {
+    "city": "Lefke",
+    "district": "Lefke",
+    "map": {
+      "lat": 35.1137462,
+      "lng": 32.8496268
+    },
+    "place_id": "ChIJJcwU6qVZ5xQRkcCTmSDRNms"
+  },
+  {
+    "city": "Lefke",
+    "district": "Yedidalga",
+    "map": {
+      "lat": 35.144474,
+      "lng": 32.8056285
+    },
+    "place_id": "ChIJcb1P3tJY5xQRmfZXUDXRy0s"
+  },
+  {
+    "city": "Lefke",
+    "district": "Yeşilırmak",
+    "map": {
+      "lat": 35.1667086,
+      "lng": 32.732254
+    },
+    "place_id": "ChIJ7fWEp8df5xQR6HUUmDmX6gk"
+  },
+  {
+    "city": "Lefke",
+    "district": "Yeşilyurt",
+    "map": {
+      "lat": 35.1539714,
+      "lng": 32.8846957
+    },
+    "place_id": "ChIJpSgobwpY5xQRwtSdyBiNSQU"
+  }
+]
